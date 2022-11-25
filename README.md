@@ -22,7 +22,7 @@
 ### Testing Documentation
 
 - [Checklists](https://github.com/OlenchenkoVladimir/OlenchenkoVladimir/blob/main/testingDocumentation/exercism_2.xlsx)
-- [Test-Suites and Test-Cases]
-- [Bug-Reports]
+- [Test-Suites and Test-Cases](https://github.com/OlenchenkoVladimir/OlenchenkoVladimir/blob/main/testingDocumentation/exercism_3.xlsx)
+- [Bug-Reports](https://github.com/OlenchenkoVladimir/OlenchenkoVladimir/blob/main/testingDocumentation/exercism_4.xlsx)
 - [SQL Queries]
 - [Postman Collections]
