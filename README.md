@@ -24,5 +24,5 @@
 - [Checklists](https://github.com/OlenchenkoVladimir/OlenchenkoVladimir/blob/main/testingDocumentation/exercism_2.xlsx)
 - [Test-Suites and Test-Cases](https://github.com/OlenchenkoVladimir/OlenchenkoVladimir/blob/main/testingDocumentation/exercism_3.xlsx)
 - [Bug-Reports](https://github.com/OlenchenkoVladimir/OlenchenkoVladimir/blob/main/testingDocumentation/exercism_4.xlsx)
-- [SQL Queries]
+- [SOAP UI](https://github.com/OlenchenkoVladimir/OlenchenkoVladimir/blob/main/testingDocumentation/TEXTS-soapui-project.xml)
 - [Postman Collections](https://crimson-spaceship-108088.postman.co/workspace/New-Team-Workspace~15efbd87-660f-4f94-a308-ccbd6bdc1d2f/collection/23983198-dabc2596-3c54-480b-9769-ea3224b037c5?action=share&creator=23983198)
