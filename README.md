@@ -6,3 +6,4 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 -->
+## To work and evolve as QA Intern and offer my professional skills to your company
