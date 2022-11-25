@@ -21,7 +21,7 @@
 
 ### Testing Documentation
 
-- [Checklists]
+- [Checklists](https://github.com/OlenchenkoVladimir/OlenchenkoVladimir/blob/main/testingDocumentation/exercism_2)
 - [Test-Suites and Test-Cases]
 - [Bug-Reports]
 - [SQL Queries]
